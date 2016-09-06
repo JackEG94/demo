@@ -1,0 +1,53 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    color: black;
+    font-family: helvetica-bold;
+    text-align: center;
+    
+}
+
+p {
+    font-family: helvetica-light;
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    font-family: helvetica-light;
+    font-size: 20px;
+}
+
+
+a {
+    color: black;
+    font-family: helvetica;
+    font-style: normal;
+    
+}
+
+table.languageref th {
+    border-style: solid;
+    border: 1px;
+    border-color: black;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 40px;
+       
+}
+
+
+table.languageref {
+    width: 100%;
+}
+
+table.languageref .picHTML5 { background-image: url(html.png)
+}
+
+table.languageref .picCSS3 {background-image: url(css3.png)
+}
